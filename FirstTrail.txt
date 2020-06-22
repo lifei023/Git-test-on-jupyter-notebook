@@ -1,1 +1,1 @@
-This is the first trail of Git operation.
+This is the a simple trail of Git operation on June 22nd, 2020.
