@@ -1,2 +1,3 @@
 This is the a simple trail of Git operation on June 22nd, 2020.
 This is the first line I put in a branch.
+This is also the first time I modify a file locally and merge it to the repository in Git. 
